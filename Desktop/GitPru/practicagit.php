@@ -3,8 +3,7 @@
   </head>
     <body>>
 	<?php
-	echo "bye";
+	echo "Hola Mundo";
 	?>
     </body>
 </html>
-ссс
