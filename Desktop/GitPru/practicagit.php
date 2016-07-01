@@ -1,7 +1,8 @@
 <html>
   <head>
   </head>
-    <body>>
+    <body>
+	<title>Practica de Git con GitHub</title>
 	<?php
 	echo "Hola Mundo";
 	?>
