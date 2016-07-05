@@ -7,11 +7,12 @@
 	  <center>
 	    <font color="white"><h1>Practica de Git con GitHub</h1>
 	  </center>
-	  <p>
-	  Git (pronunciado "guit" ) es un software de control de versiones diseñado por Linus Torvalds,
-	  pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones 
+	  <p><center>
+	  Git (pronunciado "guit" ) es un software de control de versiones diseñado por Linus Torvalds,<br>
+	  pensando en la eficiencia y la confiabilidad del mantenimiento<br> de versiones de aplicaciones 
 	  cuando éstas tienen un gran número de archivos de código fuente.
-	  </font></p>
+	  </font></center></p>
+	  <center>
     <table width="50%" border="3" bordercolor="#green" cellspacing="10" cellpadding="10">
 	    <thead>
 		  <tr>
@@ -36,6 +37,7 @@
 		</font></td>
 	  </tr>
     </table>	
+	</center>
 	<?php
 	echo "Hola Mundo";
 	?>
