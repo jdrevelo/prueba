@@ -3,7 +3,7 @@
   <title>Practica de Git con GitHub</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   </head>
-    <body background="https://k60.kn3.net/taringa/B/2/4/7/F/3/Goku-Master/04D.jpg">
+    <body background="http://wallpaper.pickywallpapers.com/1366x768/blue-tools-pattern.jpg">
 	  <center>
 	    <font color="white"><h1>Practica de Git con GitHub</h1>
 	  </center>
@@ -13,7 +13,7 @@
 	  cuando éstas tienen un gran número de archivos de código fuente.
 	  </font></center></p>
 	  <center>
-    <table width="50%" border="3" bordercolor="#green" cellspacing="10" cellpadding="10">
+    <table width="25%" border="3" bordercolor="black" cellspacing="5" cellpadding="5" background="http://plasticoscj.com/wp-content/uploads/2015/07/fondo-azul.jpg">
 	    <thead>
 		  <tr>
 		    <th><font color="white">
