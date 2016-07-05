@@ -11,6 +11,23 @@
 	  pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones 
 	  cuando éstas tienen un gran número de archivos de código fuente.
 	  </p>
+    <table>
+	  <tr>
+	    <td>
+		  PHP
+		</td>
+	  </tr>
+	  <tr>
+	    <td>
+		  HTML
+		</td>
+	  </tr>
+	  <tr>
+	    <td>
+		  JAVA
+		</td>
+	  </tr>
+    </table>	
 	<?php
 	echo "Hola Mundo";
 	?>
