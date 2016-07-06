@@ -5,6 +5,7 @@
   </head>
     <body background="http://wallpaper.pickywallpapers.com/1366x768/blue-tools-pattern.jpg">
 	  <center>
+	  	      <img src="http://www.fondox.net/descargar.php?id=1573&resolucion=1152x864" WIDTH=100% HEIGHT=70>
 	    <font color="white"><h1>Practica de Git con GitHub</h1>
 	  </center>
 	  <p><center>
@@ -36,7 +37,10 @@
 		  JAVA
 		</font></td>
 	  </tr>
-    </table>	
+    </table>
+        <a href="http://www.buhopedia.com/informacion-buhos/s">
+	      <img src="http://i1177.photobucket.com/albums/x352/Morenamore/Azul%202/108_zps665f10d5.jpg" WIDTH=80 HEIGHT=70>
+	  </a>	
 	</center>
 	<?php
 	echo "Hola Mundo";
